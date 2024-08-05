@@ -19,7 +19,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "AI lucidxmas" # 상단 헤더에 보이는 블로그 명
+title: "lucidxmas" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "lucidxmas" # 블로그 닉네임 설정
@@ -98,11 +98,11 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
+  name: "lucidxmas" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  # email            : "originid@naver.com"
 
   links: # 사이트 링크
 #     - label: "Email"
