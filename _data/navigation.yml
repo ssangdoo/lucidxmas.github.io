@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "algebra"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "python"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "categories3"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "certify"
     url: /categories/categories4/
