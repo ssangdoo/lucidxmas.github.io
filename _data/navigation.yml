@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://lucidxmas.github.io/
+    url: https://ssangdoo.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/lucidxmas
+    url: https://github.com/ssangdoo
 
   # - title: "Projects"
   #   url: /projects/
